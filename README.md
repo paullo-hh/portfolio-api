@@ -48,10 +48,8 @@ Organizei o projeto seguindo princípios da Clean Architecture:
 
 A documentação da API está disponível via Swagger UI em `/docs-portfolio.html` quando a aplicação está rodando.
 
-## Sobre mim
-
-**Paulo Henrique S Carvalho**
-contato.paulocarvalho@gmail.com
+## Contato
+Paulo Henrique S Carvalho - <a href="mailto.contato.paulocarvalho@gmail.com" target="_blank">contato.paulocarvalho@gmail.com</a>
 
 ---
 
